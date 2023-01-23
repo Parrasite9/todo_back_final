@@ -28,7 +28,7 @@ SECRET_KEY = "django-insecure-2r=5^!2(nj*^*m*sa_39h(xldjpau&$wmn&pc5=^frws@w&25=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'git.heroku.com/fathomless-refuge-25826.git']
+ALLOWED_HOSTS = ['localhost', 'fathomless-refuge-25826.heroku.app']
 
 
 # Application definition
